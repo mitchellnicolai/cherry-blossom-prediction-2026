@@ -11,6 +11,7 @@ I used a LASSO Regression model that optimizes for the biological Base Temperatu
 
 # Final 2026 Predictions
 | Location | DOY | Date |
+| :--- | :---: | :--- |
 | Washington D.C. | 88 | March 29 |
 | Kyoto | 88 | March 29 |
 | New York City | 91 | April 1 |
